@@ -2,6 +2,7 @@ name: "Writing"
 title: "My Blog"
 description: |
   My Blog
+base_url: https://solis9753.github.io/Writing/
 output_dir: "_site"
 navbar:
   right:
